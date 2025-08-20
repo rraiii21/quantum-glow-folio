@@ -24,7 +24,7 @@ const About = () => {
             
             <div className="space-y-4 text-muted-foreground">
               <p>
-                Hello! I'm a passionate full-stack developer with a knack for creating elegant solutions 
+                Hello! I'm currently pursuing BCA and I'm a passionate full-stack developer with a knack for creating elegant solutions 
                 to complex problems. My journey in software development began over 3 years ago.
               </p>
               <p>
